@@ -1,0 +1,78 @@
+.img-circle {
+  border-radius: 50%;
+  height: 190px;
+}
+
+h1 {
+  font-family: 'Verdana';
+  font-size: 32px;
+  color: #953553;
+}
+
+p {
+  color: #953553;
+}
+
+body {
+  background-color: #FFF5EE;
+  font-family: 'Verdana';
+  color: #F88379;
+  font-size: 12px;
+  text-align: center;
+}
+
+.container {
+  background-color: #FFF5EE;
+  padding: 0;
+}
+
+a {
+  color: #953553;
+  transition: 0.3s;
+  padding: 12px;
+  border-radius: 5px;
+  box-shadow: 0 0 16px rgba(0,0,0,0.1);
+  text-decoration: none;
+  background-color: #f3c4c0;
+}
+
+a:hover {
+  color: white;
+  background-color: #d19292;
+  transition: 1s ease;
+}
+
+div {
+  margin-top: 20px;
+  margin-bottom: 20px;
+  background: white;
+  padding: 20px;
+  border-radius: 4px;
+  box-shadow: 0 10px 30px rgba(0,0,0,.1);
+}
+
+.container {
+  width: 800px;
+  margin: 0 auto;
+}
+
+.list-inline > li {
+  display: inline-block;
+  padding: 0px 10px;
+}
+
+.list-inline {
+  list-style: none;
+  padding-left: 0px;
+  padding: 0px;
+}
+
+i:hover {
+  transform: scale(1.5);
+  transition: .3s;
+  padding: 0px;
+}
+
+.fa-brands {
+  font-size: large;
+}
